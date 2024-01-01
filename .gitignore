@@ -1,0 +1,50 @@
+# Unity
+/[Uu]nity[Bb]uilds/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Uu]nityGenerated/
+/[Uu]nityPackageManager/
+
+# textmesh pro
+/[Aa]ssets/[Tt]extMesh\ Pro/
+
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Other temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+# Visual Studio
+**/*.sln
+**/*.vcxproj
+**/*.vcxproj.filters
+**/*.vcxproj.user
+**/*.pdb
+**/*.ilk
+**/*.exe
+**/*.dll
+**/*.lib
+**/*.exp
+**/*.suo
+**/*.user
+**/*.aps
+**/*.vspscc
+**/*.vssscc
+**/*.ncb
+**/*.sdf
+**/*.opensdf
+**/*.sln.docstates
+
+
+
