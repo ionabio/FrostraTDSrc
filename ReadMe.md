@@ -1,6 +1,6 @@
 # FrostraTD
 
-A basic tower defense game based on game jam for [Krampushack 2023](https://tins.amarillion.org/krampu23/): 
+A basic tower defense game for [Krampushack 2023](https://tins.amarillion.org/krampu23/): 
 
 (Wishlist by SiegeLord)
 
