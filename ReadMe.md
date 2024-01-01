@@ -18,7 +18,7 @@ A basic tower defense game for [Krampushack 2023](https://tins.amarillion.org/kr
 
 ## Description
 
-This was a first time for me to use unity. 
+This was a first time for me to use unity amd I used it as an opportunity to learn the basics.
 
 Tools used:
 
