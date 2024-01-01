@@ -23,7 +23,7 @@ This was a first time for me to use unity amd I used it as an opportunity to lea
 Tools used:
 
 - ChatGPT and Dalle-3 for artwork
-- Affinity designer: to edit and make the art usable as in-game assets.
+- Affinity Photos: to edit and make the art usable as in-game assets.
 - Github's Copilot: here and there for suggestions and help me to learn unity!
 - Unity with C#
 
