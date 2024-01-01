@@ -23,11 +23,11 @@ This was a first time for me to use unity.
 Tools used:
 
 - ChatGPT and Dalle-3 for artwork
-- Affinity designer: to edit and make the art
-- Github's Copilot: here and there for suggestions
-- Unity
+- Affinity designer: to edit and make the art usable as in-game assets.
+- Github's Copilot: here and there for suggestions and help me to learn unity!
+- Unity with C#
 
 # History
 
-- This is the very alpha version of the game, bugs are around and mechanics would be improved.
+- This is the very alpha version of the game, bugs are around and mechanics could be improved.
 
